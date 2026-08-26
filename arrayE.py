@@ -23,7 +23,8 @@ print(m)
 flattened = m.flatten();
 print("flattened:",flattened)
 raveled = m.ravel()
-print("flattened:",raveled)
+print("ravelled:",raveled)
+
 print("\nMaking changes")
 flattened[0]=100
 print("\nFlattend: ",flattened)
