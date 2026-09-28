@@ -20,3 +20,4 @@ print(reshape)
 transpose=reshape.T
 print("\nTranspose:")
 print(transpose)
+
